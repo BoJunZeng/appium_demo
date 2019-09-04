@@ -1,0 +1,11 @@
+platformName: Android
+platformVersion: 9.0
+deviceName: Benzp
+udid: 1649c2e3
+appPackage: com.android.settings
+appActivity: com.android.settings.Settings
+noReset: False
+host: 127.0.0.1
+port: 4723
+unicodeKeyboard: True
+resetKeyboard: True

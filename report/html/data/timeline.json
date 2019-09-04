@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "ubuntu",
+    "children" : [ {
+      "name" : "10286-MainThread",
+      "children" : [ {
+        "name" : "test_demo2",
+        "uid" : "15bdac7840ac2747",
+        "parentUid" : "3e8bc793317a46294364aa3c7db74d24",
+        "status" : "failed",
+        "time" : {
+          "start" : 1567512935913,
+          "stop" : 1567512935914,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_demo1",
+        "uid" : "5273e34adca3e3cc",
+        "parentUid" : "3e8bc793317a46294364aa3c7db74d24",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567512935911,
+          "stop" : 1567512935911,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_demo3",
+        "uid" : "aaefe6c3ad622cf8",
+        "parentUid" : "3e8bc793317a46294364aa3c7db74d24",
+        "status" : "failed",
+        "time" : {
+          "start" : 1567512935951,
+          "stop" : 1567512935952,
+          "duration" : 1
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3e8bc793317a46294364aa3c7db74d24"
+    } ],
+    "uid" : "fd8342d1c2e3fbb0ae3eb3c73964add6"
+  } ],
+  "name" : "timeline"
+}
